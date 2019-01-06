@@ -11,5 +11,9 @@ OptimalPlayStrat.py : Array describing the resulting Optimal Play strategy
 
 CTB-TestOptimalPlayStrat.ipynb : Notebook used for testing the Optimal Play strategy
 
+CTB-TrainNetwork.ipynb : Notebook that handles training of the NN in addition to finding differences between the NN and OptimalPlayStrat
+
+StratDifferences.py : Array of all differences between NN behavior and OptimalPlayStrat.py
+
 
 
